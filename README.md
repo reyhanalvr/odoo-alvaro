@@ -1,4 +1,4 @@
-# Tugas Server Odoo dengan implementasi HA
+# Server Odoo dengan implementasi HA
 
 Dokumentasi ini merangkum penyiapan infrastruktur Odoo 14 CE dengan konfigurasi High Availability.
 
